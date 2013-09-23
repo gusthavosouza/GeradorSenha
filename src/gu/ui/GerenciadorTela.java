@@ -1,3 +1,4 @@
+@autor Gustavo de Souza
 package gu.ui;
 
 import java.awt.BorderLayout;
