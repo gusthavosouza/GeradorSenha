@@ -1,7 +1,7 @@
 /*
  * 
  */
-
+@autor Gustavo de Souza
 package gu.senha;
 
 import java.util.Random;
