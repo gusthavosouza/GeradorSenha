@@ -1,5 +1,5 @@
 package gu.ui;
-
+@autor Gustavo de Souza
 import gu.senha.GeradorSenha;
 
 import javax.swing.JFrame;
